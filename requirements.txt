@@ -1,0 +1,9 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+html2text==2024.2.26
+python-slugify==8.0.4
+tqdm==4.66.2
+urllib3==2.1.0
+validators==0.22.0
+robotexclusionrulesparser==1.7.1
+argparse==1.4.0

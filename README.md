@@ -21,7 +21,11 @@ A powerful and user-friendly Python tool that downloads web documentation and co
 
 ## 🛠 Installation
 
-1. **Clone or download this repository**
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Ns81000/DocDownloader.git
+   cd DocDownloader
+   ```
 
 2. **Create a virtual environment:**
    ```bash
